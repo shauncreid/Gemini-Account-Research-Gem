@@ -3,8 +3,7 @@
 # Corporate Research Briefing Gem 📊
 A specialized Gemini Gem designed for corporate researchers, account executives, and customer success managers to instantly generate comprehensive, canvas-formatted briefing documents on target accounts. 
 ## 🔗 Quick Access* **https://gemini.google.com/gem/1i7eNWnmZGYKNtdSgmIZaZt2Q57ACAijl?usp=sharing*
----## 🚀 How to Use1. Click the link above to open the Gem in your Gemini Web App.2. Provide the target account's **Company Name** and **URL**.
-3. Fill in your own context when prompted: `<YOUR JOB TITLE>` and `<YOUR COMPANY>`.4. Gemini will generate a 5-to-7-page comprehensive executive brief directly within a **Canvas layout**.
+---## 🚀 How to Use1. Click the link above to open the Gem in your Gemini Web App.2. Follow the Gem's instructions to provide the target account's **Company Name** and **URL** and  `<YOUR JOB TITLE>` and `<YOUR COMPANY>`.3. Gemini will generate a 5-to-7-page comprehensive executive brief directly within a **Canvas layout**.
 ---## 🛠️ Raw System InstructionsIf you prefer to create your own copy of this Gem or customize it further, copy the configuration blocks below into your Gem's instructions:
 ```text
 ROLE & OBJECTIVE:

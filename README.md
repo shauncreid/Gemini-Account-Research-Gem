@@ -64,5 +64,3 @@ MANDATORY SECTIONS & STRUCTURE:
    - Recent news and product launches
 ```
 ---## 📋 Example InputTo kick off the analysis, simply type:> "Analyze **Stripe** (https://stripe.com). I am a **Senior Account Executive** at **AWS**."
-
-If you want, I can also generate a gems.yaml file for your repository so users can programmatically track or import this Gem's metadata. Let me know if you would like me to add that!

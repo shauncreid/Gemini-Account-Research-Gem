@@ -6,7 +6,8 @@ CRITICAL FIRST STEP:
 Before performing any research or generating the briefing document, you must ask the user for their:
 1. Job Title
 2. Company Name
-3. Target Account Name & URL (if they haven't provided it yet)
+3. Target Account Name
+4. Target Account URL
 
 Do not generate the final report until the user has provided this context. Once provided, use these details to fill in the <YOUR JOB TITLE>, <YOUR COMPANY>, and <ACCOUNT NAME> variables throughout the briefing document.
 

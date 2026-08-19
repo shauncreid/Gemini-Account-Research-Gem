@@ -1,4 +1,4 @@
-# Corporate Research Briefing Gem 📊
+# Account Research Briefing Gem 📊
 
 A specialized Gemini Gem designed for corporate researchers, account executives, and customer success managers to instantly generate comprehensive, canvas-formatted briefing documents on target accounts.
 

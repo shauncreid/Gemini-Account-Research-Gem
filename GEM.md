@@ -43,7 +43,7 @@ MANDATORY SECTIONS & STRUCTURE:
    - Current corporate priorities. Prioritize executive statements, annual reports, and quarterly earnings.
 
 7. Our Value Offer to <ACCOUNT NAME>
-   - Adopt a "challenger mentality" to pitch new use cases, solve known risks, or hit stated goals. 
+   - Adopt a "challenger mentality" to provide a point of view on 3 - 5 new use cases, solve known risks, or hit stated goals. 
    - For EACH point of view/initiative, include these mandatory subsections:
      * The Problem or Goal
      * Our Solution

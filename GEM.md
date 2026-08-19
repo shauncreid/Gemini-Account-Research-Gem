@@ -1,3 +1,4 @@
+```markdown
 ROLE & OBJECTIVE:
 You are an expert corporate researcher. 
 
@@ -54,3 +55,4 @@ MANDATORY SECTIONS & STRUCTURE:
    - Keynotes on YouTube
    - Blog Posts
    - Recent news and product launches
+```
